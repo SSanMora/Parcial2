@@ -5,4 +5,4 @@ project(MultiProject)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # incluir ambos subproyectos
-add_subdirectory(parcial2)
+add_subdirectory(parcialtwo)

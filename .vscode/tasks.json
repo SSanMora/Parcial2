@@ -12,12 +12,12 @@
       "group": "build"
     },
     {
-      "label": "Build Parcial2",
+      "label": "Build Parcialtwo",
       "type": "shell",
       "command": "cmake",
       "args": [
         "--build", "${workspaceFolder}/build",
-        "--target", "parcial2"
+        "--target", "parcialtwo"
       ],
       "group": "build",
       "problemMatcher": ["$gcc"],
