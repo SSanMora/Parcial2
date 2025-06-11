@@ -3,7 +3,7 @@
     "configurations": [
       
       {
-        "name": "Debug Parcialtwo",
+        "name": "Debug Parcial2",
         "type": "cppdbg",
         "request": "launch",
         "program": "${workspaceFolder}/build/bin/intersedes",
@@ -12,7 +12,7 @@
         "console": "integratedTerminal",
         "MIMode": "gdb",
         "miDebuggerPath": "/usr/bin/gdb",
-        "preLaunchTask": "Build Parcialtwo",
+        "preLaunchTask": "Build Parcial2",
       },
       // por cada proyecto/carpeta
     ]
